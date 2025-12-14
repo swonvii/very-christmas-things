@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: lightblue;
+}
+
+header img {
+    width: 500px;
+    height: 300px;
+}
+
+header p {
+    background-color: white;
+    color:darkred;
+    font-size:30px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+main .zagolovok{
+    background-color: brown;
+}
+p {
+    font-size: 20px;
+}
+
+p img {
+    width: 100px;
+    height: 100px;
+}
+
+footer {
+    background-color: lightcyan;
+    color: lightgray;
+}
+
+footer p {
+    background-color: white;
+    color: darkblue;
+}
+h1 {
+    color:lightblue;
+}
+main img {
+    width:250px;
+    height:190px;
+}
+.zagolovok{
+    color: white;
+    border-top:3px solid darkred;
+    border-bottom:3px solid darkblue;
+
+}
+h2 {
+    text-align: center;
+    font-size: 50px;
+    color:lightblue;
+}
+h2 img {
+    width:500px;
+    height:500px;
+}
